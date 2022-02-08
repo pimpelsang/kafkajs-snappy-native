@@ -1,2 +1,3 @@
-# kafkajs-very-snappy
-Snappy c++ codec for KafkaJS
+# kafkajs-snappy-native
+Snappy c++ native codec for KafkaJS
+
