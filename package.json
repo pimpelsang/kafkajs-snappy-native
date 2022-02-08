@@ -1,7 +1,7 @@
 {
   "name": "kafkajs-snappy-native",
   "version": "1.0.0",
-  "description": "snappy c++ codec for kafkajs",
+  "description": "snappy native codec for kafkajs",
   "main": "src/index.js",
   "types": "types/index.d.ts",
   "scripts": {

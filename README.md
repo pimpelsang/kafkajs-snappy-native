@@ -1,5 +1,5 @@
 # kafkajs-snappy-native
-Snappy c++ native codec for KafkaJS. For javascript only implementation use [kafkajs-snappy](https://github.com/tulios/kafkajs-snappy)
+Snappy native codec for KafkaJS. For javascript implementation use [kafkajs-snappy](https://github.com/tulios/kafkajs-snappy)
 
 ## Installation
 
