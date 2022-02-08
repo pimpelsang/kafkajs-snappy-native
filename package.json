@@ -1,0 +1,28 @@
+{
+  "name": "kafkajs-very-snappy",
+  "version": "1.0.0",
+  "description": "snappy c++ codec for kafkajs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pimpelsang/kafkajs-very-snappy.git"
+  },
+  "keywords": [
+    "kafkajs"
+  ],
+  "author": "eero.koplimets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pimpelsang/kafkajs-very-snappy/issues"
+  },
+  "homepage": "https://github.com/pimpelsang/kafkajs-very-snappy#readme",
+  "dependencies": {
+    "snappy": "^7.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.16"
+  }
+}
