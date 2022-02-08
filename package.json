@@ -1,8 +1,9 @@
 {
-  "name": "kafkajs-very-snappy",
+  "name": "kafkajs-snappy-native",
   "version": "1.0.0",
   "description": "snappy c++ codec for kafkajs",
   "main": "src/index.js",
+  "types": "types/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
